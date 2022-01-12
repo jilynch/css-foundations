@@ -1,2 +1,2 @@
 # css-foundations
-The Odin Project CSS Foundations
+The Odin Project CSS Foundations.
