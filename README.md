@@ -191,7 +191,9 @@ html {
 
  To understand the thinking behind this, see [the CSS Tricks article on box-sizing](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/).
 
-### `display: inline-block`
+![Showing the size of the box when the alternate box model is being used.](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model/alternate-box-model.png)
+
+## Block and inline
 
 An element with `display: inline-block` does a subset of the block things:
 
