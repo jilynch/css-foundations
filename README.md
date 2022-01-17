@@ -62,6 +62,12 @@ It is a pattern of elements and other terms that tell the browser which HTML ele
 | Class        |  `.`  | Selects all elements with the given class.      |
 | ID           |  `#`  | Selects an element with the given ID.           |
 
+### Specificity
+
+1. ID Selectors (most specific selector).
+2. Class Selectors.
+3. Type Selectors.
+
 ### Grouping Selectors
 
 ```css
@@ -116,15 +122,7 @@ So something like `.ancestor .child` would select an element with the class `chi
 }
 ```
 
-### Specificity
 
-1. ID Selectors (most specific selector).
-
-2. Class Selectors.
-
-3. Type Selectors.
-
-   
 
 ### Inheritance
 
